@@ -1,0 +1,2 @@
+# wsjava
+java project
